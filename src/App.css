@@ -22,9 +22,13 @@ li
   border-radius: 5px;
   outline: none;
   padding: 10px;
-  background-color: rgb(250, 226, 194);
+  background-color: rgb(250, 210, 158);
 }
 
+.search-bar::placeholder
+{
+  color: rgb(87, 86, 86);
+}
 .search-button
 {
   border:none;
