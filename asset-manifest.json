@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Find-your-food/static/css/main.5606dac2.chunk.css",
-    "main.js": "/Find-your-food/static/js/main.7d24f6bb.chunk.js",
-    "main.js.map": "/Find-your-food/static/js/main.7d24f6bb.chunk.js.map",
+    "main.css": "/Find-your-food/static/css/main.1d0f6850.chunk.css",
+    "main.js": "/Find-your-food/static/js/main.c8d3d9ac.chunk.js",
+    "main.js.map": "/Find-your-food/static/js/main.c8d3d9ac.chunk.js.map",
     "runtime-main.js": "/Find-your-food/static/js/runtime-main.4899305c.js",
     "runtime-main.js.map": "/Find-your-food/static/js/runtime-main.4899305c.js.map",
     "static/js/2.033a3892.chunk.js": "/Find-your-food/static/js/2.033a3892.chunk.js",
     "static/js/2.033a3892.chunk.js.map": "/Find-your-food/static/js/2.033a3892.chunk.js.map",
     "index.html": "/Find-your-food/index.html",
-    "precache-manifest.b51a2f5e630d738c218fe151d0c795b2.js": "/Find-your-food/precache-manifest.b51a2f5e630d738c218fe151d0c795b2.js",
+    "precache-manifest.6fa252f91b078d8e03cabb5ac4372d65.js": "/Find-your-food/precache-manifest.6fa252f91b078d8e03cabb5ac4372d65.js",
     "service-worker.js": "/Find-your-food/service-worker.js",
-    "static/css/main.5606dac2.chunk.css.map": "/Find-your-food/static/css/main.5606dac2.chunk.css.map",
+    "static/css/main.1d0f6850.chunk.css.map": "/Find-your-food/static/css/main.1d0f6850.chunk.css.map",
     "static/js/2.033a3892.chunk.js.LICENSE.txt": "/Find-your-food/static/js/2.033a3892.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4899305c.js",
     "static/js/2.033a3892.chunk.js",
-    "static/css/main.5606dac2.chunk.css",
-    "static/js/main.7d24f6bb.chunk.js"
+    "static/css/main.1d0f6850.chunk.css",
+    "static/js/main.c8d3d9ac.chunk.js"
   ]
 }
