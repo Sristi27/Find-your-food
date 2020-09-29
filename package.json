@@ -2,7 +2,7 @@
   "name": "food-recipe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sristi27.github.io/find-your-food",
+  "homepage": "https://Sristi27.github.io/Find-your-food",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
