@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ac276f42bc4753e9936d35d8bce13a8",
+    "revision": "f0a167caf1f33c569e92078963cefb8b",
     "url": "/Find-your-food/index.html"
   },
   {
-    "revision": "84bb821ed4b168d69a75",
-    "url": "/Find-your-food/static/css/main.7af6f40b.chunk.css"
+    "revision": "d6ecc5bcca760a0caa45",
+    "url": "/Find-your-food/static/css/main.da9c209f.chunk.css"
   },
   {
     "revision": "7046e24ad2327b8f4633",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Find-your-food/static/js/2.033a3892.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84bb821ed4b168d69a75",
+    "revision": "d6ecc5bcca760a0caa45",
     "url": "/Find-your-food/static/js/main.7d24f6bb.chunk.js"
   },
   {

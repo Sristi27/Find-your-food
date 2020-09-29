@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Find-your-food/static/css/main.7af6f40b.chunk.css",
+    "main.css": "/Find-your-food/static/css/main.da9c209f.chunk.css",
     "main.js": "/Find-your-food/static/js/main.7d24f6bb.chunk.js",
     "main.js.map": "/Find-your-food/static/js/main.7d24f6bb.chunk.js.map",
     "runtime-main.js": "/Find-your-food/static/js/runtime-main.4899305c.js",
@@ -8,15 +8,15 @@
     "static/js/2.033a3892.chunk.js": "/Find-your-food/static/js/2.033a3892.chunk.js",
     "static/js/2.033a3892.chunk.js.map": "/Find-your-food/static/js/2.033a3892.chunk.js.map",
     "index.html": "/Find-your-food/index.html",
-    "precache-manifest.1ed379f7a8fd4ea72f96172b8e43af57.js": "/Find-your-food/precache-manifest.1ed379f7a8fd4ea72f96172b8e43af57.js",
+    "precache-manifest.e09fe4643752c3ac5ecc999f7780c9d7.js": "/Find-your-food/precache-manifest.e09fe4643752c3ac5ecc999f7780c9d7.js",
     "service-worker.js": "/Find-your-food/service-worker.js",
-    "static/css/main.7af6f40b.chunk.css.map": "/Find-your-food/static/css/main.7af6f40b.chunk.css.map",
+    "static/css/main.da9c209f.chunk.css.map": "/Find-your-food/static/css/main.da9c209f.chunk.css.map",
     "static/js/2.033a3892.chunk.js.LICENSE.txt": "/Find-your-food/static/js/2.033a3892.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4899305c.js",
     "static/js/2.033a3892.chunk.js",
-    "static/css/main.7af6f40b.chunk.css",
+    "static/css/main.da9c209f.chunk.css",
     "static/js/main.7d24f6bb.chunk.js"
   ]
 }
